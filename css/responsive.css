@@ -1,6 +1,44 @@
 @media screen and (min-width: 1920px)  {
+  body{
+    width: 100%;
+  }
+
+  .r1, .r2, .r3, .r4, .r5, .r6, .r7, .r8, .r9, .r10{
+    display: none;
+  }
+
+  .r{
+    padding-top: 7.2%;
+  }
+
   h1{
-    color: yellow;
+    font-size: 210px;
+    line-height: 246px;
+  }
+
+  h2{
+      font-size: 160px;
+      line-height: 160px;
+  }
+
+  h3{
+      font-size: 104px;
+      line-height: 104px;
+  }
+
+  h4{
+      font-size: 52px;
+      line-height: 60px;
+
+  }
+
+  a{
+    font-size: 20px;
+    line-height: 32px;
+  }
+
+  .cand{
+    margin-top: -7%;
   }
 
   .box1{
@@ -57,7 +95,7 @@
   body{
     width: 100%;
   }
-  
+
   .cand1{
     display: none;
   }

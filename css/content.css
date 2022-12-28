@@ -524,6 +524,13 @@ a{
   padding-bottom: 9%;
 }
 
+.r10{
+  display: flex;
+  width: 43%;
+
+  padding-bottom: 9%;
+}
+
 .n11{
   background-color: #973054;
   width: 78%;
