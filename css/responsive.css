@@ -86,12 +86,51 @@
 }
 
 @media screen and (min-width: 1280px) and (max-width: 1439px) {
-  h1{
-    color: purple;
-  }
 
   .box1{
     display: none;
+  }
+
+  .r1, .r2, .r3, .r4, .r5, .r6, .r7, .r8, .r9, .r10{
+    display: none;
+  }
+
+  .cand{
+    margin-top: -6%;
+  }
+
+  h1{
+    font-size: 140px;
+    line-height: 164px;
+  }
+
+  h2{
+    font-size: 106px;
+    line-height: 106px;
+  }
+
+  h3{
+    font-size: 68px;
+    line-height: 68px;
+  }
+
+  h4{
+    font-size: 36px;
+    line-height: 42px;
+
+  }
+
+  .r{
+    padding-bottom: 14%;
+  }
+
+  .o4{
+    padding-bottom: 8%;
+  }
+
+  .b2{
+    padding-top: 3%;
+    padding-bottom: 3%;
   }
 }
 
@@ -106,13 +145,128 @@
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px){
-  h1{
-    color: blue;
-  }
 
   .box1{
     display: none;
   }
+
+  .r1, .r2, .r3, .r4, .r5, .r6{
+    display: none;
+  }
+
+  .cand{
+    margin-top: 30%;
+  }
+
+  .logo{
+    width: 80%;
+  }
+
+  h1{
+    font-size: 94px;
+    line-height: 110px;
+  }
+
+  h2{
+    font-size: 72px;
+    line-height: 72px;
+  }
+
+  h3{
+    font-size: 46px;
+    line-height: 46px;
+  }
+
+  h4{
+    font-size: 26px;
+    line-height: 30px;
+  }
+
+  .t3{
+    padding-top: 32%;
+  }
+
+  .b1{
+    padding-top: 12%;
+    padding-bottom: 12%;
+  }
+
+  .b2{
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+
+  .n1{
+    padding-top: 12%;
+    padding-bottom: 12%;
+  }
+
+  .n2{
+    flex-direction: row;
+    padding-top: 20%;
+    padding-bottom: 20%;
+  }
+
+  .n3{
+    padding-bottom: 100%;
+  }
+
+  .n4{
+    padding-top: 6%;
+    padding-bottom: 6%;
+  }
+
+  .n6{
+    padding-top: 10%;
+
+  }
+
+  .row1{
+    transform: rotate(90deg);
+    padding-top: 24%;
+    padding-bottom: 24%;
+  }
+
+  .row2{
+    transform: rotate(90deg);
+    margin-left: -20%;
+
+  }
+
+  .im1{
+    width: 44%;
+  }
+
+  .im2{
+    width: 44%;
+    margin-left: 4%;
+  }
+
+  .im3{
+    width: 44%;
+    margin-left: 4%;
+  }
+
+  .im4{
+    width: 44%;
+  }
+
+  .im5{
+    width: 44%;
+    margin-left: 4%;
+  }
+
+  .im6{
+    width: 44%;
+    margin-left: 4%;
+  }
+
+  .o4{
+    padding-bottom: 51%;
+  }
+
+
+
 }
 
 /* -------------------------------------------------------------------------414 */
