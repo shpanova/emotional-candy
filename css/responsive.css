@@ -53,6 +53,11 @@
 
 
 @media screen and (min-width: 414px) and (max-width: 767px){
+
+  body{
+    width: 100%;
+  }
+  
   .cand1{
     display: none;
   }
