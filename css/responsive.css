@@ -49,6 +49,9 @@
   }
 }
 
+/* -------------------------------------------------------------------------414 */
+
+
 @media screen and (min-width: 414px) and (max-width: 767px){
   .cand1{
     display: none;
@@ -248,7 +251,16 @@
     height: 48%;
     margin-top: 56%;
     margin-left: -2%;
+    }
 
+  .r9{
+    padding-bottom: 31%;
+  }
 
+}
 
+@media screen and (min-width: 320px) and (max-width: 413px){
+  h1{
+    color: brown;
+  }
 }
