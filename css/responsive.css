@@ -44,16 +44,44 @@
   .box1{
     display: none;
   }
+
+  .b2{
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+   }
 }
 
 
 @media screen and (min-width: 1440px) and (max-width: 1919px) {
-  h1{
-    color: black;
+
+  .r1, .r2, .r3, .r4, .r5, .r6, .r7, .r8, .r9, .r10{
+    display: none;
   }
 
   .box1{
     display: none;
+  }
+
+  .b1{
+    padding-top: 8%;
+    padding-bottom: 8%;
+  }
+
+  .b2{
+    padding-top: 4%;
+    padding-bottom: 4%;
+  }
+
+  .logo{
+    width: 74%;
+  }
+
+  .r{
+    padding-bottom: 15%;
+  }
+
+  .o4{
+    padding-bottom: 8%;
   }
 }
 
