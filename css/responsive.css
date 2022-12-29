@@ -135,14 +135,80 @@
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
-  h1{
-    color: red;
-  }
-
   .box1{
     display: none;
   }
-}
+
+  .r1, .r2, .r3, .r4, .r5, .r6, .r7, .r8, .r9, .r10{
+    display: none;
+  }
+
+  .r{
+    padding-bottom: 23%;
+  }
+  .o4{
+    padding-bottom: 6%;
+  }
+
+  .cand{
+    margin-top: -6%;
+  }
+
+  h1{
+    font-size: 112px;
+    line-height: 130px;
+  }
+
+  h2{
+    font-size: 84px;
+    line-height: 84px;
+  }
+
+  h3{
+    font-size: 54px;
+    line-height: 54px;
+  }
+
+  h4{
+    font-size: 30px;
+    line-height: 30px;
+  }
+
+  .b1{
+    padding-top: 12%;
+    padding-bottom: 12%;
+  }
+
+  .b2{
+    padding-top: 4%;
+    padding-bottom: 4%;
+  }
+
+  .logo{
+    width: 70%;
+  }
+
+  .n1{
+    padding-top: 6%;
+    padding-bottom: 6%;
+  }
+
+  .n3{
+    padding-bottom: 60%;
+  }
+
+  .row1{
+    padding-top: 15%;
+  }
+
+  .row2{
+    padding-bottom: 15%;
+  }
+
+
+  }
+
+  }
 
 @media screen and (min-width: 768px) and (max-width: 1023px){
 
